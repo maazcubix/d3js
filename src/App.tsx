@@ -8,9 +8,9 @@ function App() {
 
   return (
     <>
-      <DynamicD3Chart />
+      {/* <DynamicD3Chart /> */}
       {/* <InteractiveD3ChartWithNumbers /> */}
-      {/* <InteractiveD3ChartWith /> */}
+      <InteractiveD3ChartWith />
     </>
   );
 }
